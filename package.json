@@ -1,0 +1,12 @@
+{
+  "name": "n8n-render-bot",
+  "version": "1.0.0",
+  "description": "n8n Community Edition for Render",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx n8n"
+  },
+  "dependencies": {
+    "n8n": "^1.121.3"
+  }
+}
